@@ -19,3 +19,15 @@
 - noEmitOnError: true ,
 - outDir : folderName ,
 - rootDir - comment out
+
+1. undefined - next cls
+2. any
+3. void
+
+3rd class
+
+1. type inference
+2. type annotation
+3. union type
+4. type alias / interface
+5. literal type
